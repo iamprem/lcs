@@ -1,6 +1,8 @@
 ----------------------------------------
 
-Name		: Prem kumar Murugesan
+Author		: Prem kumar Murugesan
+
+License		: The MIT License (MIT)
 
 ----------------------------------------
 
