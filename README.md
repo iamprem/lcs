@@ -29,20 +29,20 @@ The java project attached contains the following files.
 	4. NaiveImplementaion.java
 
 
-MainClass.java
---------------
+###MainClass.java
+
 It contains the main method, where we can give inputs and get the output.
 
-EditDistance.class
-------------------
+###EditDistance.java
+
 It contains the implementation of the algorithm to find the normalized edit distance.
 
-LCS.java
---------
+###LCS.java
+
 It contain the implementation of both linear and non-linear algorithm to find the longest common subsequence.
 
-NaiveImplementation.java
-------------------------
+###NaiveImplementation.java
+
 It contains the naive implementation to find the normalized edit distance.
 
 
